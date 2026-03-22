@@ -6,7 +6,7 @@ A full-stack habit tracking web app with login, persistent data, and beautiful a
 
 ---
 
-## Features
+## Features of this dashboard
 
 - **Secure Auth** — Register and log in with email/password. Sessions persist for 30 days via JWT.
 - **Daily Tracker** — Full monthly calendar grid. Click any cell to mark a habit done or undone.
