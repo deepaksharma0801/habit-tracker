@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(timeout 5 node index.js)",
+      "Bash(node -e \"require\\(''./db''\\); require\\(''./routes/auth''\\); require\\(''./routes/habits''\\); console.log\\(''All modules load OK''\\)\")",
+      "Bash(curl -s http://localhost:3001/api/health)",
+      "mcp__Claude_Preview__preview_start"
+    ]
+  }
+}
