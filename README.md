@@ -12,7 +12,7 @@ A full-stack habit tracking web app with login, persistent data, and beautiful a
 - **Daily Tracker** — Full monthly calendar grid. Click any cell to mark a habit done or undone.
 - **Dashboard** — KPI cards, category performance bars, monthly heatmap, and today's quick check-in.
 - **Streaks & Stats** — Automatic completion %, current streak, and longest streak per habit.
-- **Manage Habits** — Add, edit, or remove habits grouped by category. 30 default habits pre-loaded on signup.
+- **Manage Habits** — Add, edit, or remove habits grouped by category. 30 default habits pre-loaded on signup
 - **Fully Offline** — No external database or cloud service. Everything stored locally in SQLite.
 
 ---
